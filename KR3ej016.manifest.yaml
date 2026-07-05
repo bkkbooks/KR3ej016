@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej016_000.yaml, hash: 'sha256:333cd5c806984b9febc875b808cd4a8eab711f0aa59e5afbcd6f128a65eedc97'}
+  - {seq: 0, filename: KR3ej016_000.yaml, hash: 'sha256:365b146d962171d101c608c8652b45740903bd0182b30ce92cee47e91d9026b4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej016_000.markers.yaml, hash: 'sha256:89fd57b5e1021cd91a8ee281acf6222afd3e5ecd407f702080a3b63230c006be'}
+  - {seq: 0, role: markers, filename: assets/KR3ej016_000.markers.yaml, hash: 'sha256:2a5af281627d1b9533881262f2aa84182ce94215b6bdd640dcaf704ffd7b1cc6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,7 +321,4 @@ table_of_contents:
   label: 幼科證治匯方
   type: section
   level: 1
-hash: sha256:2ed206a757722f093d2a1d613f03268576dd39abdae5568a73cb6395edd509b6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ea71fb9311937e3d467e344dc879088138e8f9f961df1cf65b9712d5449fc902
