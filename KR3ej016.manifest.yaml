@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ej016_000.yaml, hash: 'sha256:fa78b9ed9a918046ac4a777d43e3a147d49a84107fdcbe82b8c8170a5ba4b9b3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej016_000.markers.yaml, hash: 'sha256:1d5ee5750df9875ec70f1fd541b69b025f52956b7f973b5719c849409dc054bc'}
+  - {seq: 0, role: markers, filename: assets/KR3ej016_000.markers.yaml, hash: 'sha256:fa6c1bedeef912291694a726aff6c95bb0341bb07426cfa94b3de4e19c8bd27d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -321,7 +321,7 @@ table_of_contents:
   label: 幼科證治匯方
   type: section
   level: 1
-hash: sha256:ead93351d95d502d47b890b852be3336509f783b7993cf39c294190e30735554
+hash: sha256:3105c59b5d8e1cfe43aa38e013614139d85151cc5b9f85c3187be440729a87bd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
